@@ -92,7 +92,7 @@ priorityQueue.offer(5);
 priorityQueue.offer(9);
 ```
 
-![](https://user-gold-cdn.xitu.io/2020/7/28/173948ed158b2027?w=1618&h=850&f=png&s=77427)
+![](https://github.com/ffaa30703/algorithm013/blob/master/Week_01/offer.jpg?raw=true)
 
 
 ### poll
@@ -149,4 +149,4 @@ priorityQueue.offer(9);
 
 再此我们进行poll()操作
 
-![](https://user-gold-cdn.xitu.io/2020/7/28/17394b65030ffb6f?w=655&h=685&f=png&s=39564)
+![](https://raw.githubusercontent.com/ffaa30703/algorithm013/master/Week_01/poll.jpg)
